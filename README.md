@@ -1,2 +1,2 @@
 # Projetos
-Desenvolvidos por Leonaro Fernandes Sapucahy
+Desenvolvidos por Leonardo Fernandes Sapucahy
