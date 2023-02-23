@@ -1,4 +1,4 @@
-# Projetos
+# Projetos Python 
 
   - Algumas simples soluções desenvolvidas em python para o dia a dia
   
