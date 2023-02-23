@@ -1,2 +1,2 @@
 # Projetos
-Desenvolvidos por Leonardo Fernandes Sapucahy
+Algumas simples soluções desenvolvidas em python.
