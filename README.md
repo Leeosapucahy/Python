@@ -5,3 +5,5 @@
   - Criadas para estudos pessoais e universitários
    
   - Podem ser executadas no Python IDE ou no VSCode (contendo a extensão python)
+  
+  - Espero que ajude! (;
